@@ -4,6 +4,7 @@
   watching tv series and learning languages  
 - 🌱 I’m currently learning Data Analytics
 - 📫 How to reach me : https://www.linkedin.com/in/muhd-iddham-105b741a3/
+  📧 muhdiddham971@gmail.com
 
 <!---
 Hans2340/Hans2340 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
