@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhamad Iddham Abdullah @Hans2340, a final year student in UiTM Shah Alam, Bachelor of Information System
-  Engineering (HONS.) Intelligent System
+  Engineering (HONS.) Intelligent System. I am currently looking for internship opportunity in this related domain
 - 👀 I’m interested in Artificial Intelligence, Data Analytics, Machine learning and much more! During my free time, I like to read books (especially philosophical books),
   watching tv series and learning languages  
 - 🌱 I’m currently learning Data Analytics
