@@ -4,7 +4,7 @@
   watching tv series and learning languages  
 - 🌱 I’m currently learning Data Analytics
 - 📖 Books I read : https://www.goodreads.com/user/show/159869645-iddham
-- 📫 How to reach me : https://www.linkedin.com/in/muhd-iddham-105b741a3/
+- 📫 How to reach me : https://www.linkedin.com/in/muhd-iddham/
    / 📧 muhdiddham971@gmail.com
 
 <!---
