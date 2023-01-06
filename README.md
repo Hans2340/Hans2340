@@ -3,7 +3,7 @@
 - 👀 I’m interested in Artificial Intelligence, Data Analytics, Machine learning and much more! During my free time, I like to read books (especially philosophical books),
   watching tv series and learning languages  
 - 🌱 I’m currently learning Data Analytics
-- 📖 Books I read : www.linkedin.com/in/muhd-iddham
+- 📖 Books I read : https://www.goodreads.com/user/show/159869645-iddham
 - 📫 How to reach me : https://www.linkedin.com/in/muhd-iddham-105b741a3/
    / 📧 muhdiddham971@gmail.com
 
